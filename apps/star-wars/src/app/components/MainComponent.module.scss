@@ -1,0 +1,14 @@
+.main-container {
+  .list-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    height: 60vh;
+
+    .list-item {
+      padding: 15px;
+      width: 200px;
+      height: 200px;
+    }
+  }
+}
